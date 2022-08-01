@@ -4,3 +4,7 @@ To create a new episode wordcloud:
 3. Run wcloud: python wcloud.py -m cat.jpg -o <episode_dir>/wordcloud.jpg <episode_dir>/<text_file>
 4. If you want, you can also include words in a stop file and specify that with the -s flag
 5. Edit the wordcloud file to remove everything but the wordcloud.
+
+The [cat silhouette](https://www.publicdomainpictures.net/en/view-image.php?image=317301&picture=cat-silhouette) by Karen Arnold is shared with a CC0 Public Domain license.
+
+The script is based on the "wordcloud" pagkage, available from [PyPi](https://pypi.org/project/wordcloud/)
